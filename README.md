@@ -3,7 +3,18 @@
 ### Hi there 👋
 I am **Junho Kim (aka Hawl)**. Web Full-Stack developer, interested in **Python based Restful API, Javascript (Specially Vue.js), OOP, CleanCode, UI/UX**.
 
+🔭 I’m currently in **ROKA(Republic of Korea Army)** for duty, until _June 17th, 2021_
+
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://fb.com/hawl.kim)](https://fb.com/hawl.kim)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h4wldev/)](https://www.linkedin.com/in/h4wldev/)
 
-🔭 I’m currently in **ROKA(Republic of Korea Army)** for duty, until _June 17th, 2021_
+
+#### Career 🏢
+- **Kakao Corp** Web Application Developer (2018.07 ~ 2019.11)
+- **Loplat** Software Engineer (2017.09 ~ 2018.04)
+
+#### Education 🏫
+- **Korea Digital Media High School** Hacking Defence Diploma (2015-2018)
+
+### Product 🌟
+- **[Kakao Arena](https://kakao.arena.com)** Full-Stack Web Development
