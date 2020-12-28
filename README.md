@@ -8,13 +8,12 @@ I am **Junho Kim (aka Hawl)**. Web Full-Stack developer, interested in **Python 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://fb.com/hawl.kim)](https://fb.com/hawl.kim)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h4wldev/)](https://www.linkedin.com/in/h4wldev/)
 
-
 #### Career 🏢
-- **Kakao Corp** Web Application Developer (2018.07 ~ 2019.11)
-- **Loplat** Software Engineer (2017.09 ~ 2018.04)
+- **Kakao Corp** Web Application Developer (2018.07 - 2019.11)
+- **Loplat** Software Engineer (2017.09 - 2018.04)
 
 #### Education 🏫
-- **Korea Digital Media High School** Hacking Defence Diploma (2015-2018)
+- **Korea Digital Media High School** Hacking Defence Diploma (2015 - 2018)
 
 #### Product 🌟
 - **[Kakao Arena](https://kakao.arena.com)** Full-Stack Web Development
