@@ -16,7 +16,7 @@ I am **Junho Kim (aka Hawl)**. Web Full-Stack developer, interested in **Python 
 - **Korea Digital Media High School** Hacking Defence Diploma (2015 - 2018)
 
 #### Product 🌟
-- **[Kakao Arena](https://kakao.arena.com)** Full-Stack Web Development
+- **[Kakao Arena](https://arena.kakao.com)** Full-Stack Web Development
 
 #### Open Source ☁️
 - **[seed](https://github.com/h4wldev/seed)** 🌾 Boilerplate for restful API with tiangolo/fastapi
