@@ -7,7 +7,8 @@ I am **Junho Kim (aka Hawl)**. Web Full-Stack developer, interested in **Python 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h4wldev/)](https://www.linkedin.com/in/h4wldev/)
 
 #### Career 🏢
-- **Angelleague** Web Developer (2021.06 - )
+- **Ad-shield** Devloper & HR (2021.10 - )
+- **Angelleague** Web Developer (2021.06 - 2021.10)
 - **Kakao Corp** Web Application Developer (2018.07 - 2019.11)
 - **Loplat** Software Engineer (2017.09 - 2018.04)
 
@@ -15,6 +16,7 @@ I am **Junho Kim (aka Hawl)**. Web Full-Stack developer, interested in **Python 
 - **Korea Digital Media High School** Hacking Defence Diploma (2015 - 2018)
 
 #### Product 🌟
+- **[Ad Shield](https://ad-shield.io)**
 - **[Angelleague](https://angelleague.io)** Full-Stack Web Development
 - **[Kakao Arena](https://arena.kakao.com)** Full-Stack Web Development
 
