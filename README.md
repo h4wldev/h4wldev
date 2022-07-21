@@ -17,7 +17,8 @@ I am **Junho Kim (aka Hawl)**. Web Full-Stack developer, interested in **Python,
 - **Korea Digital Media High School** Hacking Defence Diploma (2015 - 2018)
 
 #### Product 🌟
-- **[Ad Shield Ads](https://ad-shield.io)**
-- **[Trippy](https://trippy.place)** Full-Stack Web + dApp Development
+- **[Trippy.place](https://trippy.place)** Full-Stack Web + dApp Development
+- **[Ad-Shield Publisher](https://publisher.ad-shield.io)** Lead Product Engineering
+- **[Ad-Shield Ads](https://ad-shield.io)**
 - **[Angelleague](https://angelleague.io)** Full-Stack Web Development
 - **[Kakao Arena](https://arena.kakao.com)** Full-Stack Web Development
