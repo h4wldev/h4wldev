@@ -3,8 +3,6 @@
 ### Hi there 👋
 I am **Junho Kim (aka Hawl)**. Full-Stack Developer, interested in **Web3, Typescript, React.js, UI/UX**.
 
-[![Etherscan Badge](https://img.shields.io/badge/zn0ng.eth-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)](https://etherscan.io/address/0x00003abd523fbdb040154a8756d5c8cae3760000)
-[![Opensea Badge](https://img.shields.io/badge/Opensea-2081E2?style=flat-square&logo=OpenSea&logoColor=white)](https://opensea.io/zn0ng_eth)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h4wldev/)](https://www.linkedin.com/in/h4wldev/)
 
 #### Career 🏢
