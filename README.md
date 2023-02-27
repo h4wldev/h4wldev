@@ -1,7 +1,5 @@
-![](https://user-images.githubusercontent.com/14465407/88480316-5403d900-cf90-11ea-9fc4-bd6a68935fad.png)
-
 ### Hi there 👋
-I am **Junho Kim (aka Hawl)**. Full-Stack Developer, interested in **Web3, Typescript, React.js, UI/UX**.
+I am **Junho Kim (aka Hawl)**. Full-Stack Developer, interested in **Typescript, React.js, UI/UX, Restful API**.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h4wldev/)](https://www.linkedin.com/in/h4wldev/)
 
