@@ -13,13 +13,3 @@ I am **Junho Kim (aka Hawl)**. Full-Stack Developer, interested in **Typescript,
 
 #### Education 🏫
 - **Korea Digital Media High School** Hacking Defence Diploma (2015 - 2018)
-
-#### Product 🌟
-- **[Caramel](https://caramel.thetrive.com)** Full-Stack Development
-- **[Trive](https://thetrive.com)** Full-Stack Development
-- **[Dotted Town](https://dotted.town)** Full-Stack Web Development
-- **[Pado](https://padoapp.com)** Full-Stack Web + dApp Development
-- **[Ad-Shield Publisher](https://publisher.ad-shield.io)** Lead Product Engineering
-- **[Ad-Shield Ads](https://ads.ad-shield.io)** Lead Product Engineering
-- **[Angelleague](https://angelleague.io)** Full-Stack Web Development
-- **[Kakao Arena](https://arena.kakao.com)** Full-Stack Web Development
