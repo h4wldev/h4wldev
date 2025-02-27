@@ -6,7 +6,7 @@ I am **Junho Kim (aka Hawl)**. Full-Stack Developer, interested in **Typescript,
 #### Career 🏢
 - **The Trive** Full-Stack Developer (2024.05 -)
 - **Angelleague** Full-Stack Developer (2022.07 - 2024.05)
-- **AdShield, Inc** Lead Product Engineer (2021.10 - 2022.06)
+- **AdShield, Inc** Product Engineer (2021.10 - 2022.06)
 - **Angelleague** Web Developer (2021.06 - 2021.10)
 - **Kakao Corp** Web Application Developer (2018.07 - 2019.11)
 - **Loplat** Software Engineer (2017.09 - 2018.04)
